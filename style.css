@@ -1,0 +1,42 @@
+#a{
+    height: 250px;
+    background-color: blueviolet;
+    display:flex;
+}
+#b1{
+    flex-grow:1 ;
+    background-color: coral;
+}
+#b2{
+    flex-grow: 1;
+    background-color: gold;
+}
+#b3{
+    flex-grow: 1;
+    background-color:palevioletred;
+}
+#b4{
+    flex-grow: 1;
+    background-color:greenyellow;
+}
+#c{
+    height: 600px;
+    background-color: indianred;
+    display:flex ;
+    flex-direction: column;
+    border: 1px solid plum;
+    margin-top: 10vh;
+}
+#el1{
+    flex-grow: 1;
+    background-color: ivory;
+}
+#el2{
+    flex-grow: 1;
+    background-color: blue;
+}
+#el3{
+    flex-grow: 1;
+    background-color: red;
+}
+
